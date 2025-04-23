@@ -1,8 +1,7 @@
 # Climate-Patterns-Regional-Classification-and-Well-being-Analysis-in-the-UK
-# UK Climate and Happiness Data Science Project
 
 ## Overview
-This data science project, part of an academic assessment, explores the relationship between UK weather patterns and regional happiness levels using publicly available datasets. It includes clustering and classification analysis on weather data, as well as correlation analysis between climate variables and happiness metrics. The study aims to discover geographical trends and their potential social impacts using machine learning and statistical tools.
+This project investigates UK climate data using unsupervised and supervised learning techniques. It identifies weather-based regional patterns through clustering, classifies weather stations into geographical regions using machine learning, and explores potential correlations between climate factors and happiness using statistical analysis. A final clustering analysis on happiness data further highlights regional well-being trends. The project leverages Python for data collection, preprocessing, modeling, and visualization, emphasizing reproducibility and insightful reporting.
 
 ---
 
