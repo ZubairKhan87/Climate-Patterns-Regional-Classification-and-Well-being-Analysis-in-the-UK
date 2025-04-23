@@ -48,7 +48,7 @@ This project investigates UK climate data using unsupervised and supervised lear
 1. Clone the repository:
     ```bash
     git clone https://github.com/ZubairKhan87/Climate-Patterns-Regional-Classification-and-Well-being-Analysis-in-the-UK.git
-    cd uk-climate-happiness-analysis
+    cd Climate-Patterns-Regional-Classification-and-Well-being-Analysis-in-the-UK
     ```
 
 2. Set up environment:
@@ -57,10 +57,9 @@ This project investigates UK climate data using unsupervised and supervised lear
     ```
 
 3. Run analysis notebooks in order:
-    - `part1_clustering_weather_stations.ipynb`
-    - `part2_classification_weather_regions.ipynb`
-    - `part3_climate_happiness_correlation.ipynb`
-    - `part4a_happiness_clustering.ipynb`
+    - `clustering_classification.ipynb`
+    - `Task 3 & Task 4 (Happiness).ipynb`
+
 
 ---
 
