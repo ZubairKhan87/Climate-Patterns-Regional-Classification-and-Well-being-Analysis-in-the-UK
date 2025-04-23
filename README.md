@@ -47,7 +47,7 @@ This project investigates UK climate data using unsupervised and supervised lear
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/uk-climate-happiness-analysis.git
+    git clone https://github.com/ZubairKhan87/Climate-Patterns-Regional-Classification-and-Well-being-Analysis-in-the-UK.git
     cd uk-climate-happiness-analysis
     ```
 
